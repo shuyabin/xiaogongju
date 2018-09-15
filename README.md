@@ -16,5 +16,8 @@ D:\gowww\src\runtime\file\11.html
 D:\gowww\src\runtime\file\9.html
 D:\gowww\src\runtime\file\8.html
 
+使用命令
+./rmfile.exe -filename="C:/xx/xxx/xx/nicai.txt"
+
 
 ```
